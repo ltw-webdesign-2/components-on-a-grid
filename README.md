@@ -53,6 +53,6 @@ On GitHub’s website, on your forked repository, create an Issue labeled “Sol
 
 Here’s an example of what the recording would sound like (using different content).
 
-<audio controls src="https://assets.learn-the-web.algonquindesign.ca/web-design-2/components-on-a-grid.mp3"></audio>
+<audio controls src="https://assets.learntheweb.courses/web-design-2/components-on-a-grid.mp3"></audio>
 
 **Don’t forget to tag your teacher!**
